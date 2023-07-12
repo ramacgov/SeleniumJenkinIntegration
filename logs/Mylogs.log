@@ -1,0 +1,10 @@
+[INFO ] 2023-05-31 08:42:41.206 [main] Log4jDemo - info
+[ERROR] 2023-05-31 08:42:41.217 [main] Log4jDemo - Error
+[WARN ] 2023-05-31 08:42:41.218 [main] Log4jDemo - warn
+[FATAL] 2023-05-31 08:42:41.218 [main] Log4jDemo - fatel
+[DEBUG] 2023-05-31 08:42:41.219 [main] Log4jDemo - debug
+[INFO ] 2023-05-31 08:45:48.449 [main] Log4jDemo - info
+[ERROR] 2023-05-31 08:45:48.459 [main] Log4jDemo - Error
+[WARN ] 2023-05-31 08:45:48.459 [main] Log4jDemo - warn
+[FATAL] 2023-05-31 08:45:48.460 [main] Log4jDemo - fatel
+[DEBUG] 2023-05-31 08:45:48.460 [main] Log4jDemo - debug
